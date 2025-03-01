@@ -213,6 +213,18 @@ p {
     height: 425px;
 }
 
+#member-card-eight {
+    height: 530px;
+}
+
+#member-card-ten, #member-card-eleven {
+    height: 405px;
+}
+
+#member-card-twelve {
+    height: 460px;
+}
+
 .meeting-log-label {
     margin-bottom: 0px !important; 
     padding-bottom: 0px !important;
