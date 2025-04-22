@@ -210,14 +210,14 @@ p {
 }
 
 #member-card-six, #member-card-twentyfive, #member-card-twentysix, 
-#member-card-twentyeight, #member-card-thirty, #member-card-thirtythree, 
-#member-card-twenty, #member-card-twentyone, #member-card-twentytwo,
-#member-card-thrityone {
+#member-card-twentyeight, #member-card-thirty, #member-card-twenty,
+#member-card-twentyone, #member-card-thrityone {
     height: 425px;
 }
 
 #member-card-eight, #member-card-fifteen, #member-card-seventeen, 
-#member-card-nineteen, #member-card-thirtytwo {
+#member-card-nineteen, #member-card-thirtytwo, #member-card-twentytwo, 
+#member-card-thirtythree {
     height: 530px;
 }
 
