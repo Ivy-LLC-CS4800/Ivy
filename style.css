@@ -210,11 +210,11 @@ p {
 }
 
 #member-card-six, #member-card-twentyfive, #member-card-twentysix, 
-#member-card-twentyeight, #member-card-thirty, #member-card-thirtythree {
+#member-card-twentyeight, #member-card-thirty, #member-card-thirtythree, #member-card-twenty, #member-card-twentyone {
     height: 425px;
 }
 
-#member-card-eight, #member-card-fifteen {
+#member-card-eight, #member-card-fifteen, #member-card-seventeen, #member-card-nineteen {
     height: 530px;
 }
 
