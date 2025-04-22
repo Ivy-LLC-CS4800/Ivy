@@ -215,8 +215,12 @@ p {
     height: 425px;
 }
 
+#member-card-thirtythree {
+    height: 500px;
+}
+
 #member-card-eight, #member-card-fifteen, #member-card-seventeen, 
-#member-card-nineteen, #member-card-twentytwo, #member-card-thirtythree {
+#member-card-nineteen, #member-card-twentytwo {
     height: 530px;
 }
 
