@@ -93,7 +93,7 @@ p {
     color: #333333;
 }
 
-#content {
+#content, .content {
     margin: 0px;
     padding: 0px;
     width: 100%;
