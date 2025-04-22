@@ -201,15 +201,16 @@ p {
     box-shadow: 0px 0px 5px 0px #333333;
 }
 
-#member-card-four {
+#member-card-four, #member-card-fourteen {
     height: 406px;
 }
 
-#member-card-five {
+#member-card-five, #member-card-twentythree, #member-card-twentyfour {
     height: 460px;
 }
 
-#member-card-six {
+#member-card-six, #member-card-twentyfive, #member-card-twentysix, 
+#member-card-twentyeight, #member-card-thirty, #member-card-thirtythree {
     height: 425px;
 }
 
