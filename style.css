@@ -201,35 +201,25 @@ p {
     box-shadow: 0px 0px 5px 0px #333333;
 }
 
-#member-card-four, #member-card-fourteen {
+#member-card-fourteen,
+.member-card-406 {
     height: 406px !important;
 }
 
-#member-card-five, #member-card-twentythree, #member-card-twentyfour, #member-card-thirtythree {
+.member-card-460 {
     height: 460px !important;
 }
 
-#member-card-six, #member-card-twentyfive, #member-card-twentysix, 
-#member-card-twentyeight, #member-card-thirty, #member-card-twenty,
-#member-card-twentyone, #member-card-thirtyone, #member-card-thirtytwo {
+.member-card-425 {
     height: 425px !important;
 }
 
-#member-card-eight, #member-card-fifteen, #member-card-seventeen, 
-#member-card-nineteen, #member-card-twentytwo {
+.member-card-530 {
     height: 530px !important;
 }
 
-#member-card-thirtytwo {
-    height: 530px !important;
-}
-
-#member-card-ten, #member-card-eleven {
+.member-card-405 {
     height: 405px;
-}
-
-#member-card-twelve {
-    height: 460px;
 }
 
 .meeting-log-label {
