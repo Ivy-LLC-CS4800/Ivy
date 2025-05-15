@@ -195,41 +195,9 @@ p {
     margin: 10px;
     padding: 10px;
     width: 500px;
-    height: 400px;
     background-color: #f9f9f9;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 0px #333333;
-}
-
-#member-card-four, #member-card-fourteen {
-    height: 406px !important;
-}
-
-#member-card-five, #member-card-twentythree, #member-card-twentyfour, #member-card-thirtythree {
-    height: 460px !important;
-}
-
-#member-card-six, #member-card-twentyfive, #member-card-twentysix, 
-#member-card-twentyeight, #member-card-thirty, #member-card-twenty,
-#member-card-twentyone, #member-card-thirtyone, #member-card-thirtytwo {
-    height: 425px !important;
-}
-
-#member-card-eight, #member-card-fifteen, #member-card-seventeen, 
-#member-card-nineteen, #member-card-twentytwo {
-    height: 530px !important;
-}
-
-#member-card-thirtytwo {
-    height: 530px !important;
-}
-
-#member-card-ten, #member-card-eleven {
-    height: 405px;
-}
-
-#member-card-twelve {
-    height: 460px;
 }
 
 .meeting-log-label {
